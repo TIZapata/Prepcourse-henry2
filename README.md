@@ -1,2 +1,1 @@
-# Prepcourse-henry2
-Primer repositorio de prepcourse henry
+prueba de como crear un proyecto
